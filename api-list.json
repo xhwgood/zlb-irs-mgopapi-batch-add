@@ -1,0 +1,8 @@
+[
+  {
+    "url": "/park/experience/agency/page",
+    "method": "GET",
+    "name": "当前入园体验活动下机构",
+    "file": "park.ts"
+  }
+]

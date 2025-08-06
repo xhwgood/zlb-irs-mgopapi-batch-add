@@ -1,0 +1,15 @@
+{
+  "name": "zlb-irs-mgopapi-batch-add",
+  "version": "1.0.0",
+  "description": "浙里办IRS api批量添加脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.11.0"
+  }
+}

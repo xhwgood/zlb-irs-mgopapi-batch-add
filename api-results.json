@@ -1,0 +1,29 @@
+[
+  {
+    "allowedEntrances": [
+      "H5",
+      "APP"
+    ],
+    "apiDevState": "INIT",
+    "apiId": "1002430772",
+    "apiName": "mgop.rw.axt.workerInfectiousDiseaseDelete",
+    "apiNameCh": "/worker/infectious/disease/delete",
+    "apiStatus": 1,
+    "apiType": 2,
+    "creatorNick": "林义",
+    "description": "/worker/infectious/disease/delete",
+    "gmtCreate": 1745197895000,
+    "gmtModify": 1745197895000,
+    "httpContentType": "application/json",
+    "invokeConfig": "{\"prodUrl\":\"https://child.wzswsj.gov.cn/axtParent/worker/infectious/disease/delete\",\"requestEncodeType\":\"UTF-8\",\"requestMethod\":\"POST\",\"testUrl\":\"http://axt-hw.frp.rwlbs.com:7080/axtParent/worker/infectious/disease/delete\",\"valid\":true}",
+    "isNeedLogin": false,
+    "limitedTrans": 1000,
+    "mappingType": 0,
+    "modifierNick": "林义",
+    "sysId": "3991715876",
+    "sysNameCh": "婴幼儿照护",
+    "tenantId": "zj",
+    "timeout": 30000,
+    "version": 2
+  }
+]
